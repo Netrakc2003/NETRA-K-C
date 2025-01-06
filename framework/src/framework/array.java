@@ -30,5 +30,5 @@ public class array {
 		// TODO Auto-generated method stub
 
 	}
+		}}
 
-}
